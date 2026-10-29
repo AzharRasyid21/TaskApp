@@ -6,7 +6,7 @@ Aplikasi pencatat tugas (*to-do list*) lokal yang ringan, cepat, dan responsif. 
 
 ## 👥 Identitas Kelompok
 * **Azhar Rasyid Wisnadi** - `[23523051]`
-* **Arya** - `[NIM]`
+* **Dianta Arya Zaki Hanif** - `[24523159]`
 * **Yusuf** - `[NIM]`
 
 ---
@@ -42,7 +42,7 @@ Aplikasi pencatat tugas (*to-do list*) lokal yang ringan, cepat, dan responsif. 
 | :--- | :--- | :--- |
 | **Azhar Rasyid Wisnadi** | **Project Setup & Data Model**<br>• Inisialisasi proyek dan dependensi Gradle<br>• Perancangan struktur data `Task` & `TaskUiState`<br>• Konfigurasi *entry point* `MainActivity` | • `build.gradle.kts`<br>• `Task.kt`<br>• `MainActivity.kt` |
 | **Sandi** | **Business Logic & State Management**<br>• Pembuatan `TaskViewModel`<br>• Penerapan Enkapsulasi & `StateFlow`<br>• Logika validasi form & manipulasi data | • `TaskViewModel.kt` |
-| **[Nama Anggota 3]** | **UI Components & Adaptive Layout**<br>• Pembuatan `TaskScreen`, `InputSection`, `TaskListSection`<br>• Implementasi `collectAsStateWithLifecycle`<br>• Penanganan *breakpoint* layar (600dp) | • `TaskScreen.kt` |
+| **[Dianta Arya Zaki Hanif]** | **UI Components & Adaptive Layout**<br>• Pembuatan `TaskScreen`, `InputSection`, `TaskListSection`<br>• Implementasi `collectAsStateWithLifecycle`<br>• Penanganan *breakpoint* layar (600dp) | • `TaskScreen.kt` |
 
 ---
 
