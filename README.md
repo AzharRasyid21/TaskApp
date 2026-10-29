@@ -5,9 +5,9 @@ Aplikasi pencatat tugas (*to-do list*) lokal yang ringan, cepat, dan responsif. 
 ---
 
 ## 👥 Identitas Kelompok
-* **Azhar Rasyid Wisnadi** - `[NIM Kamu]`
-* **Arya** - `[NIM Sandi]`
-* **Yusuf** - `[NIM Anggota 3]`
+* **Azhar Rasyid Wisnadi** - `[23523051]`
+* **Arya** - `[NIM]`
+* **Yusuf** - `[NIM]`
 
 ---
 
