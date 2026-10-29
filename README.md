@@ -7,7 +7,7 @@ Aplikasi pencatat tugas (*to-do list*) lokal yang ringan, cepat, dan responsif. 
 ## 👥 Identitas Kelompok
 * **Azhar Rasyid Wisnadi** - `[23523051]`
 * **Dianta Arya Zaki Hanif** - `[24523159]`
-* **Yusuf** - `[NIM]`
+* **Muhammad Farhan Yusuf Azizi** - `[24533129]`
 
 ---
 
